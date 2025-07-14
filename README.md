@@ -5,8 +5,10 @@ This repository accompanies the journal submission of **"Benchmarking of AI Algo
 ---
 
 **In this repository, we:**
-1) Provide the model weights for *ABDSynth*, which is a model based on SynthSeg (https://github.com/BBillot/SynthSeg) trained using abdominal data, and
-2) Provide a demo notebook to run inference on a sample dataset using *ABDSynth*
+1) Provide the [model weights](https://github.com/deepakri201/ABDSynth/releases/download/v1.0.0/dice_100.h5) for *ABDSynth*, which is a model based on SynthSeg (https://github.com/BBillot/SynthSeg) trained using abdominal data, and
+2) Provide a [demo notebook](https://github.com/deepakri201/ABDSynth/blob/main/ABDSynth_demo.ipynb) to run inference on a sample dataset using *ABDSynth*
+3) Provide our preprocessing scripts for [AMOS](https://github.com/deepakri201/ABDSynth/blob/main/AMOS_preprocessing.ipynb), [CHAOS](https://github.com/deepakri201/ABDSynth/blob/main/CHAOS_preprocessing.ipynb), and [LiverHCCSeg](https://github.com/deepakri201/ABDSynth/blob/main/LiverHCCSeg_preprocessing.ipynb) - **WIP** 
+4) Provide our preprocessed data used for evaluation at this Zenodo link - **WIP** 
 
 Further instructions for the demo notebook: 
 1) Please install SynthSeg (https://github.com/BBillot/SynthSeg) for python 3.8
