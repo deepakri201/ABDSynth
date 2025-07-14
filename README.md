@@ -1,6 +1,6 @@
 # ABDSynth
 
-This repository accompanies the journal submission of **"Benchmarking of AI Algorithms for MRI Abdominal Segmentation"**, with authors Deepa Krishnaswamy*, Cosmin Ciausu*, Benjamin Billot, Steve Pieper, Ron Kikinis, Andrey Fedorov. (*shared first author)
+This repository accompanies the journal submission of **"Benchmarking of AI Algorithms for MRI Abdominal Segmentation"**, with authors Deepa Krishnaswamy*, Cosmin Ciausu*, Steve Pieper, Ron Kikinis, Benjamin Billot, Andrey Fedorov. (*shared first author)
 
 ---
 
