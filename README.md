@@ -25,7 +25,7 @@ Example figure from our publication:
 *Sample segmentations by all methods on AMOS. (a) Pancreas slice, where all methods do not fully segment the region. (b) 3D renderings
 for another subject. Arrows indicate segmentation errors in the region of corresponding color.*
 
-[](https://github.com/user-attachments/files/21266207/Figure3.pdf)
+<img width="1854" height="774" alt="image" src="https://github.com/user-attachments/assets/33c838a1-8770-465a-bfcb-f9fc18fc421e" />
 
 For further information, please see a previous version of an arXiv paper: 
 
