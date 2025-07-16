@@ -22,10 +22,10 @@ Further instructions for the demo notebook:
 
 Example figure from our publication: 
 
-*Examples of segmentation performance for AMOS MR, with ground truths in green, and methods' segmentations in blue. (a) Pancreas slice, where all of the automated methods do not fully segment the region. (b) 3D renderings 
-for a sample patient. Arrows indicate some examples of over and under-segmentation by multiple methods.*
+*Sample segmentations by all methods on AMOS. (a) Pancreas slice, where all methods do not fully segment the region. (b) 3D renderings
+for another subject. Arrows indicate segmentation errors in the region of corresponding color.*
 
-![](https://github.com/user-attachments/assets/f69ee0d8-389c-40a9-b804-0d981d14f4a3)
+[](https://github.com/user-attachments/files/21266207/Figure3.pdf)
 
 For further information, please see a previous version of an arXiv paper: 
 
